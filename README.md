@@ -1,7 +1,3 @@
-Sure! Based on the content of your Mood Prediction Project report, here’s a comprehensive README file for your GitHub repository:
-
----
-
 # Mood Prediction Project
 
 ## Overview
@@ -140,7 +136,3 @@ Details about the datasets used in the project.
 
 ### AI Tools
 Statement on the use of AI tools in the project.
-
----
-
-Feel free to adjust the sections and content as needed for your GitHub profile.
