@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to predict daily mood variations based on calendar events. By analyzing personal calendar data, the project seeks to uncover patterns and insights that could predict mood fluctuations, leveraging both quantitative and qualitative aspects of daily schedules.
+This project aims to predict daily mood variations based on my personal Google calendar events. By analyzing my personal calendar data, I wanted to learn about the patterns and insights that could predict my mood fluctuations, leveraging both quantitative and qualitative aspects of my daily schedules.
 
 ## Table of Contents
 
