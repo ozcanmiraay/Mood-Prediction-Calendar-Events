@@ -1,4 +1,4 @@
-# Mood Prediction Project
+# Mood Prediction based on Calendar Events
 
 ## Overview
 
@@ -131,8 +131,3 @@ References to relevant literature and sources used in the project.
 
 ### Data Availability
 Details about the datasets used in the project.
-
-## Use of AI Tools Statement
-
-### AI Tools
-Statement on the use of AI tools in the project.
